@@ -27,13 +27,11 @@ Users should be able to:
 
 Desktop 
 
-![Screenshot - Desktop]
 
 Tablet and Mobile
 
 
-![Screenshot - Tablet]
-![Screenshot - Mobile]
+
 
 ### Links
 
