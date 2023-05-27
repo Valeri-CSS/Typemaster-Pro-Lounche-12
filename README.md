@@ -25,7 +25,9 @@ Users should be able to:
 
 ### Screenshots
 
-Desktop ![Screenshot - desktop](https://github.com/Valeri-CSS/Typemaster-Pro-Lounche-12/assets/116646278/ca443986-0bd1-4e06-8c4f-1af1ac722e35)
+Desktop
+
+![Screenshot - desktop](https://github.com/Valeri-CSS/Typemaster-Pro-Lounche-12/assets/116646278/ca443986-0bd1-4e06-8c4f-1af1ac722e35)
 
 
 
