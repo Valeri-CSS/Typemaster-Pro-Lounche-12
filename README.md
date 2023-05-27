@@ -25,19 +25,22 @@ Users should be able to:
 
 ### Screenshots
 
-Desktop 
+Desktop ![Screenshot - desktop](https://github.com/Valeri-CSS/Typemaster-Pro-Lounche-12/assets/116646278/ca443986-0bd1-4e06-8c4f-1af1ac722e35)
+
 
 
 Tablet and Mobile
 
+![Screenshot - Tablet](https://github.com/Valeri-CSS/Typemaster-Pro-Lounche-12/assets/116646278/c6975dbd-7ab9-4e9e-8ed0-62b4d3d5021a)
+![Screenshot - Mobile](https://github.com/Valeri-CSS/Typemaster-Pro-Lounche-12/assets/116646278/7463f317-33fb-44d3-8a18-acd6e06fe5ce)
 
 
 
 ### Links
 
-Live Website at:
+Live Website at: https://valeri-css.github.io/Typemaster-Pro-Lounche-12/
 
-Live Solution : 
+Live Solution : https://github.com/Valeri-CSS/Typemaster-Pro-Lounche-12
 
 
 ### Build with
@@ -49,7 +52,7 @@ Live Solution :
 
 ### What I learned
 
-With this project I improved my Responsive skills and I also learned how Flex-wrap works. This is my first Web-site which is sutable for all kind of devices.
+In this project I improved my Responsive and flex-box skills.
 
 ### Author
 
