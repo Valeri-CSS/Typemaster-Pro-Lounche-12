@@ -1,0 +1,182 @@
+@media screen and (min-width:768px) {
+    .key {
+        display: none;
+    }
+
+    .tabletkey {
+        display: block;
+        Width: 62.3%;
+        margin: 0px 0px 0px 58%;
+        border-radius: 20px;
+    }
+
+    .text {
+        position: relative;
+        width: 47%;
+        padding: 64px 24px 64px 24px;
+        left: -21%;
+        margin: 91px 0px -416px 0px;
+    }
+
+    .mousepad {
+        width: 27%;
+        Height: 320px;
+        background-image: url(./assets/tablet/image-phone-and-keyboard.jpg);
+        margin: 24px 24px 0px 39px;
+        background-size: 100% 320px;
+        border-radius: 25px;
+        margin: 24px 24px -2px 39px;
+    }
+
+    .glass {
+        Width: 59%;
+        Height: 320px;
+        margin: -330px 0px 19px 37%;
+    }
+
+    .mechanical {
+        width: 100px;
+        text-align: left;
+    }
+
+    .typemaster {
+        margin: -114px 58px 111px 312px;
+        text-align: left;
+    }
+
+    .wrap {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin: 0px 0% 0px 0%;
+    }
+
+    .cards {
+        width: 331px;
+    }
+
+    .cards>img {
+        margin: 0px 43px 0px 46px;
+    }
+
+    .cards>h1 {
+        margin: 48px 75px 24px 47px;
+        text-align: left;
+    }
+
+    .cards>p {
+        margin: 0px -6px 64px 44px;
+        text-align: left;
+    }
+
+    .desktopkey {
+        display: none;
+    }
+
+
+
+}
+
+@media screen and (min-width:1024px) {
+
+    .keyboard {
+        font-size: 56px;
+    }
+
+    .improve {
+        font-size: 18px;
+    }
+
+    .release {
+        width: 37%;
+        right: 132px;
+        left: 219px;
+    }
+
+    .tabletkey {
+        display: none;
+    }
+
+    .desktopkey {
+        display: block;
+        width: 38%;
+        margin: 77px 0px 44px 51%;
+        border-radius: 16px;
+    }
+
+    .text {
+        width: 30%;
+        margin: 91px 0px -416px -3%;
+    }
+
+    header>img {
+        margin: 4px 0px 4px 86px;
+    }
+
+    header>button {
+        margin: 0px 92px 0px 0px;
+    }
+
+    .mousepad {
+        background-image: url(./assets/desktop/image-phone-and-keyboard.jpg);
+        width: 19%;
+        height: 480px;
+        background-size: 100% 483px;
+        margin: 24px 24px -2px 13%;
+    }
+
+    .glass {
+        display: none;
+    }
+
+    .desktopglass {
+        width: 30%;
+        height: 480px;
+        display: block;
+        margin: -479px 100% 0px 34%;
+        border-radius: 16px;
+    }
+
+    .mechanical {
+        margin: -353px 50px 138px 72%;
+    }
+
+    .typemaster {
+        margin: -115px 139px 252px 72%;
+    }
+
+    .cards {
+        width: 20.5%;
+    }
+
+    .cube {
+        width: 9%;
+        height: 240px;
+        background-color: #E8EFF2;
+        margin: -18px 0px -318px 91%;
+        border-top-left-radius: 16px;
+        border-bottom-left-radius: 16px;
+    }
+
+    .cube2 {
+        width: 11%;
+        height: 240px;
+        background-color: #E8EFF2;
+        margin: 847px 0px -1086px -89%;
+        border-top-right-radius: 16px;
+        border-bottom-right-radius: 16px;
+    }
+
+    header>button:hover {
+        cursor: pointer;
+        color: #FFFFFF;
+        background: #162542;
+
+    }
+
+    .pre:hover {
+        cursor: pointer;
+        background: #FF9B62;
+    }
+
+}

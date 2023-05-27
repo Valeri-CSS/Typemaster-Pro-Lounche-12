@@ -1,0 +1,222 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px;
+    font-family: 'Barlow';
+    font-style: normal;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 89%;
+    margin: 24px 0px 0px 0px;
+}
+
+header>img {
+    Height: 40px;
+    margin: 4px 0px;
+}
+
+header>button {
+    Width: 175px;
+    Height: 51px;
+    background: #E8EFF2;
+    border-radius: 8px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #162542;
+    border: none;
+    z-index: 1;
+}
+
+.text {
+    position: relative;
+    padding: 64px 24px 64px 24px;
+}
+
+.keyboard {
+
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 48px;
+    color: #162542;
+    margin: 0px 0px 32px 0px
+}
+
+.improve {
+
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7B8BAD;
+    margin: 0px 0px 32px 0px;
+}
+
+.pre {
+    Width: 175px;
+    Height: 58px;
+    background: #F16718;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 26px;
+    color: #FFFFFF;
+    border: none;
+}
+
+.release {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7B8BAD;
+    position: absolute;
+    right: 10%;
+    top: 72%;
+}
+
+.images {
+    width: 100%;
+}
+
+.key {
+    Width: 100%;
+    border-radius: 27px;
+    right: -23px;
+    margin: 0px 0px 0px 22px
+}
+
+.glass {
+    height: 241px;
+    Width: 57%;
+    border-radius: 27px;
+    margin: -244px 0px 19px 37%;
+}
+
+.mousepad {
+    background-repeat: no-repeat;
+    height: 242px;
+    Width: 35%;
+    border-radius: 27px;
+    margin: 24px 24px 0px -23px;
+    background-color: #F16718;
+    background-blend-mode: multiply;
+    background-image: url(./assets/mobile/image-phone-and-keyboard.jpg);
+    background-size: 100% 243px;
+}
+
+.mechanical {
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 36px;
+    text-align: center;
+    color: #162542;
+    margin: 52px 50px 24px 50px;
+
+}
+
+.typemaster {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #7B8BAD;
+    margin: 0px 22px 111px;
+}
+
+.cards>h1 {
+    font-weight: 900;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #162542;
+    margin: 48px 82px 24px;
+}
+
+.cards>p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #7B8BAD;
+    margin: 0px 22px 64px;
+}
+
+.display {
+    Width: 27px;
+    Height: 21px;
+    background: #F16718;
+    border-radius: 13px;
+    padding: 18px 17px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.blueicon {
+    Width: 18px;
+    Height: 25px;
+    background: #F16718;
+    border-radius: 13px;
+    padding: 16px 21px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.capacity {
+    Width: 27px;
+    Height: 18px;
+    background: #F16718;
+    border-radius: 13px;
+    padding: 20px 16px;
+    display: flex;
+    margin: 0 auto
+}
+
+.light {
+    Width: 37px;
+    Height: 35px;
+    background: #F16718;
+    border-radius: 13px;
+    padding: 13px;
+    display: flex;
+    margin: 0 auto;
+
+}
+
+footer {
+    margin: 32px 0px 50px;
+    font-family: 'Barlow';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    color: #7B8BAD;
+}
+
+.stick {
+    margin: 0px 4px;
+    font-weight: 400;
+}
+
+.rights {
+
+    font-weight: 400;
+}
+
+.tabletkey {
+    display: none;
+}
+
+.desktopkey {
+    display: none;
+}
+
+.desktopglass {
+    display: none;
+}
